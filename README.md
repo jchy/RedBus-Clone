@@ -1,0 +1,2 @@
+# RedBus-Clone
+This is a team Project, Where our team will be responsible for cloning the RebBus website. The website that we will built, will be dynamic in nature i.e. it will be fully functional. We will use HTML/CSS/JAVASCRIPT/ADVANCED JS/MOCK-SERVER-API and Fetch API Methods like GET, POST, DELETE etc. We will also use open source libraries like BootStrap, font awesome for fonts and flickity  for horizontal slider. 
